@@ -29,28 +29,28 @@
     <string name="color_picker_default_title">Изменить цвет</string>
     <string name="toast_habit_created">Привычка создана</string>
     <plurals name="toast_habits_changed">
-        <item quantity="one">Привычка изменена</item>
-        <item quantity="few">Привычки изменены</item>
-        <item quantity="many">Привычки изменены</item>
-        <item quantity="other">Привычки изменены</item>
+        <item quantity="one">%dПривычка изменена</item>
+        <item quantity="few">%dПривычки изменены</item>
+        <item quantity="many">%dПривычки изменены</item>
+        <item quantity="other">%dПривычки изменены</item>
     </plurals>
     <plurals name="toast_habits_deleted">
-        <item quantity="one">Привычка удалена</item>
-        <item quantity="few">Привычки удалены</item>
-        <item quantity="many">Привычки удалены</item>
-        <item quantity="other">Привычки удалены</item>
+        <item quantity="one">%d привычка удалена</item>
+        <item quantity="few">%d привычки удалены</item>
+        <item quantity="many">%d привычек удалено</item>
+        <item quantity="other">%d привычек удалено</item>
     </plurals>
     <plurals name="toast_habits_archived">
-        <item quantity="one">Привычка архивирована</item>
-        <item quantity="few">Привычки архивированы</item>
-        <item quantity="many">Привычки архивированы</item>
-        <item quantity="other">Привычки архивированы</item>
+        <item quantity="one">%dПривычка архивирована</item>
+        <item quantity="few">%dПривычки архивированы</item>
+        <item quantity="many">%dПривычки архивированы</item>
+        <item quantity="other">%dПривычки архивированы</item>
     </plurals>
     <plurals name="toast_habits_unarchived">
-        <item quantity="one">Привычка возвращена из архива</item>
-        <item quantity="few">Привычки возвращены из архива</item>
-        <item quantity="many">Привычки возвращены из архива</item>
-        <item quantity="other">Привычки возвращены из архива</item>
+        <item quantity="one">%dПривычка возвращена из архива</item>
+        <item quantity="few">%dПривычки возвращены из архива</item>
+        <item quantity="many">%dПривычки возвращены из архива</item>
+        <item quantity="other">%dПривычки возвращены из архива</item>
     </plurals>
     <string name="overview">Обзор</string>
     <string name="habit_strength">Сила привычки</string>
@@ -95,16 +95,16 @@
     <string name="hint_drag">Чтобы поменять порядок записей, нажмите и удерживайте название записи, затем перетащите её на нужное место.</string>
     <string name="hint_landscape">В горизонтальном режиме отображается больше дней.</string>
     <plurals name="delete_habits_title">
-        <item quantity="one">Удалить привычку?</item>
-        <item quantity="few">Удалить привычки?</item>
-        <item quantity="many">Удалить привычки?</item>
-        <item quantity="other">Удалить привычки?</item>
+        <item quantity="one">%dУдалить привычку?</item>
+        <item quantity="few">%dУдалить привычки?</item>
+        <item quantity="many">%dУдалить привычки?</item>
+        <item quantity="other">%dУдалить привычки?</item>
     </plurals>
     <plurals name="delete_habits_message">
-        <item quantity="one">Привычка будет удалена. Это действие невозможно отменить.</item>
-        <item quantity="few">Привычки будут удалены. Это действие невозможно отменить.</item>
-        <item quantity="many">Привычки будут удалены. Это действие невозможно отменить.</item>
-        <item quantity="other">Привычки будут удалены. Это действие невозможно отменить.</item>
+        <item quantity="one">%dПривычка будет удалена. Это действие невозможно отменить.</item>
+        <item quantity="few">%dПривычки будут удалены. Это действие невозможно отменить.</item>
+        <item quantity="many">%dПривычки будут удалены. Это действие невозможно отменить.</item>
+        <item quantity="other">%dПривычки будут удалены. Это действие невозможно отменить.</item>
     </plurals>
     <string name="habit_not_found">Привычка удалена / не найдена</string>
     <string name="weekends">По выходным</string>
